@@ -13,8 +13,8 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [React App](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [React App](#react-app)
+- [👥 Author](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -103,9 +103,11 @@ To run tests, run the following command:
 
 bundle exec rspec
 
-### React app link repo
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[React App](https://github.com/Paul-js-hub/hello-react-front-end)
+## React app link repo <a name="react-app"></a>
+
+- [React App](https://github.com/Paul-js-hub/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
