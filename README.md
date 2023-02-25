@@ -52,14 +52,7 @@ hello rails back end is a rest api that displays random messages.
 
 ### Key Features <a name="key-features"></a>
 
-- API endpoint that selects a random greeting from the table
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](Coming Soon)
+- API endpoint that selects a random greeting from the rails backend API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
